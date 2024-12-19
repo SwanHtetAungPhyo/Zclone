@@ -1,4 +1,4 @@
-package zclone
+package Zclone
 
 import (
 	"encoding/json"
